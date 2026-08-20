@@ -1,43 +1,50 @@
-## =^.^= Hello =^.^=
+# =^.^= Hi, I'm Daniela Petruzalek!
 
-I'm Daniela Petruzalek, a software engineer from Brazil 🇧🇷, but currently living in the UK 🇬🇧.
+Senior Developer Relations Engineer at **Google** based in London 🇬🇧 (originally from Brazil 🇧🇷). Former double **Google Developer Expert (GDE)** in Go & GCP, with 20+ years of distributed backend and data architecture experience.
 
-My specialisation is backend and data engineering and I'm currently a Developer Relations Engineer at Google 👩‍💻🥑
+I build developer tools, advocate for **"disciplined vibe coding"** (pairing AI coding agents with compiler rigor and automated verification), and write technical deep dives at **[danicat.dev](https://danicat.dev)**.
 
-I'm interested in:
-- Go programming
-- Python 🐍
-- Databases
-- Data processing (Apache Spark)
-- Recommendation systems
-- Game development (specially retro) 🕹️
-- Cats, lot's of cats 🐈‍⬛
+---
 
-This is my personal GitHub profile where I store my experiments, supporting materials for my talks and a few **actual** open source projects. Please check out the most important ones:
-- https://github.com/danicat/pacgo: Write a Pac Man Clone from Scratch while learning Go
-- https://github.com/danicat/read.dbc: A tool to read files only the Brazilian government cares to use
+### 🛠️ Featured Open Source & Developer Tooling
 
-I'm always open to collaborations and I love to speak at tech conferences. If you are curious about the previous talks I gave most of them are listed in my [public speaking](https://github.com/danicat/public-speaking) repository.
+#### 🐹 Go Engineering & Verification Suite
+- 🩺 **[danicat/godoctor](https://github.com/danicat/godoctor)**: CLI & MCP server for automated Go architectural diagnostics, style enforcement, and AST-aware refactoring.
+- 🧬 **[danicat/selene](https://github.com/danicat/selene)**: High-performance mutation testing engine for Go to verify test suite efficacy and catch surviving mutants.
+- 🔍 **[danicat/testquery](https://github.com/danicat/testquery)**: SQL analytics engine over Go test executions, coverage reports, and benchmark metrics.
+- 🕹️ **[danicat/pacgo](https://github.com/danicat/pacgo)**: Learn Go by building a complete terminal-based Pac-Man clone from scratch.
 
-Finally, please check out my [personal blog](https://danicat.dev), where I write my thoughts, tutorials and news about everything I'm currently working on.
+#### 🤖 AI Agents & Editorial Intelligence
+- ⚡ **[danicat/speedgrapher](https://github.com/danicat/speedgrapher)**: CLI and MCP server for editorial linting, readability scoring (Fog index), AI slop detection, and SEO diagnostics.
+- 🧠 **[danicat/skills](https://github.com/danicat/skills)**: Open-source specialized Agent Skills for AI coding assistants (catalog at [skills.danicat.dev](https://skills.danicat.dev)).
 
-<div align="center">
-  
-[![danicat's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicat&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+#### 📊 Data Science
+- 📈 **[danicat/read.dbc](https://github.com/danicat/read.dbc)**: R package to extract and decompress DATASUS health databases.
 
-</div>
+---
 
-<!--
-**danicat/danicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I'm Exploring & Building
 
-Here are some ideas to get you started:
+- 🐹 **Go Systems Programming**: Modern CLI tooling, clean flat architecture, concurrency, and mutation testing.
+- 🤖 **Autonomous AI Agents**: Multi-agent swarms, Model Context Protocol (MCP), Genkit, and the Gemini API.
+- 🎮 **Retro Game Development**: 2D game loops, procedural art, and chiptune audio in Go (Ebitengine).
+- 🐈 **Cozy Web & Writing**: Independent technical blogging, long-form engineering essays, and cozy developer experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎤 Public Speaking & Workshops
+
+I regularly deliver keynotes and hands-on workshops at international conferences like **GopherCon**, **TEDx**, and **Google Cloud Next**.
+
+- 📅 **[Past & Upcoming Talks](https://danicat.dev/events/)** (Slides & Recordings)
+- 🎙️ **[Sessionize Speaker Profile](https://sessionize.com/daniela)** (CFP abstracts and speaker kit)
+
+---
+
+### 🌐 Connect with Me
+
+- 🌐 **Website & Blog**: [danicat.dev](https://danicat.dev)
+- 💼 **LinkedIn**: [/in/petruzalek](https://linkedin.com/in/petruzalek)
+- 🦋 **Bluesky**: [@danicat83.bsky.social](https://bsky.app/profile/danicat83.bsky.social)
+- 🐦 **X / Twitter**: [@danicat83](https://x.com/danicat83)
+- ✉️ **Email**: [daniela@danicat.dev](mailto:daniela@danicat.dev)
